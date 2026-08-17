@@ -64,7 +64,3 @@ Deepening my knowledge of:
 You can reach me through GitHub for now.
 
 > *May the winds guide you.*
-
----
-
-*May the winds guide you.*
